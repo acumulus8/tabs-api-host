@@ -1,0 +1,25 @@
+{
+  "response": [
+    {
+      "key": "home",
+      "icon": "home",
+      "label": "Home",
+      "URL": "http://alpha.salon-concepts.systemsinsight.com/",
+      "default": 1
+    },
+    {
+      "key": "appointments",
+      "icon": "event",
+      "label": "Appointments",
+      "URL": "http://alpha.salon-concepts.systemsinsight.com/salons",
+      "default": 0
+    },
+    {
+      "key": "profile",
+      "icon": "account",
+      "label": "Profile",
+      "URL": "http://alpha.salon-concepts.systemsinsight.com/own-a-suite",
+      "default": 0
+    }
+  ]
+}
