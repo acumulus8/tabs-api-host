@@ -4,21 +4,21 @@
       "key": "home",
       "icon": "home",
       "label": "Home",
-      "URL": "http://alpha.salon-concepts.systemsinsight.com/",
+      "URL": "http://alpha.salon-concepts.systemsinsight.com?default=true",
       "default": 1
     },
     {
       "key": "appointments",
       "icon": "calendar-multiselect",
       "label": "Appointments",
-      "URL": "http://alpha.salon-concepts.systemsinsight.com/salons",
+      "URL": "http://alpha.salon-concepts.systemsinsight.com/salons?default=true",
       "default": 0
     },
     {
       "key": "profile",
       "icon": "person",
       "label": "Profile",
-      "URL": "http://alpha.salon-concepts.systemsinsight.com/own-a-suite",
+      "URL": "http://alpha.salon-concepts.systemsinsight.com/own-a-suite?default=true",
       "default": 0
     }
   ]
