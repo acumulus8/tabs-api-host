@@ -9,14 +9,14 @@
     },
     {
       "key": "appointments",
-      "icon": "calendar-multiselect",
+      "icon": "event",
       "label": "Appointments",
       "URL": "http://alpha.salon-concepts.systemsinsight.com/salons",
       "default": 0
     },
     {
       "key": "profile",
-      "icon": "account",
+      "icon": "person",
       "label": "Profile",
       "URL": "http://alpha.salon-concepts.systemsinsight.com/own-a-suite",
       "default": 0
