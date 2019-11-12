@@ -9,7 +9,7 @@
     },
     {
       "key": "appointments",
-      "icon": "event",
+      "icon": "calendar-multiselect",
       "label": "Appointments",
       "URL": "http://alpha.salon-concepts.systemsinsight.com/salons",
       "default": 0
